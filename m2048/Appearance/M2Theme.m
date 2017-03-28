@@ -33,7 +33,7 @@
     case 6:
       return RGB(246, 94, 59);
     case 7:
-      return RGB(237, 207, 114);
+      return RGB(233, 207, 114);
     case 8:
       return RGB(237, 204, 97);
     case 9:
